@@ -16,7 +16,7 @@ We will spend about 5 minutes on each step. If you get lost or something doesn't
 
 4. Everyone: Make sure you are in  *your* repo. The URL and the title should say `[your username]/Foundations2022OurStory`, and not `[someone else's username]/Foundations2022OurStory`. Then, 
 
-    - Click the file `main.tex`. 
+    - Click the file `mainFreshPrince.tex`. 
     - Click the edit button, which is a pencil icon at the right of the screen, between a monitor icon and a trash icon.
     - Edit a line in the poem to say whatever you want (this will be public).
 
